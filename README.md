@@ -22,7 +22,7 @@ Sample question:
 
 >  Convert the 8-bit two's complement number 11110001 into decimal notation.
 
-#### CA3: Ordering two's complement numbers
+### CA3: Ordering two's complement numbers
 
 Sample question:
 
@@ -35,13 +35,13 @@ Sample question:
 > 
 > For full credit, answer the problem without converting all of the numbers to decimal.
 
-#### CA4: Converting decimal numbers into IEEE single-precision floating point
+### CA4: Converting decimal numbers into IEEE single-precision floating point
 
 Sample question:
 
 > When the number 98.75 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
 
-#### CA5: Ordering floating-point numbers
+### CA5: Ordering floating-point numbers
 
 Sample question:
 

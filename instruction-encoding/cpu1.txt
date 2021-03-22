@@ -1,0 +1,400 @@
+
+Type: F
+Title: CPU1-1
+1. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+add $r10, $r8, $r6
+
+a. 000000 01000 00110 01010 00000 100000
+b. 00000001000001100101000000100000
+
+
+Type: F
+Title: CPU1-2
+2. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r11, 0($r19)
+
+a. 100011 10011 01011 0000000000000000
+b. 10001110011010110000000000000000
+
+
+Type: F
+Title: CPU1-3
+3. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r10, $r4, $r16
+
+a. 000000 00100 10000 01010 00000 100100
+b. 00000000100100000101000000100100
+
+
+Type: F
+Title: CPU1-4
+4. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r9, 84($r13)
+
+a. 101011 01101 01001 0000000001010100
+b. 10101101101010010000000001010100
+
+
+Type: F
+Title: CPU1-5
+5. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r3, $r15, $r18
+
+a. 000000 01111 10010 00011 00000 101010
+b. 00000001111100100001100000101010
+
+
+Type: F
+Title: CPU1-6
+6. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r1, 84($r20)
+
+a. 100011 10100 00001 0000000001010100
+b. 10001110100000010000000001010100
+
+
+Type: F
+Title: CPU1-7
+7. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r16, $r7, $r1
+
+a. 000000 00111 00001 10000 00000 100100
+b. 00000000111000011000000000100100
+
+
+Type: F
+Title: CPU1-8
+8. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r10, 72($r9)
+
+a. 100011 01001 01010 0000000001001000
+b. 10001101001010100000000001001000
+
+
+Type: F
+Title: CPU1-9
+9. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r20, $r17, $r20
+
+a. 000000 10001 10100 10100 00000 101010
+b. 00000010001101001010000000101010
+
+
+Type: F
+Title: CPU1-10
+10. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r10, 20($r2)
+
+a. 101011 00010 01010 0000000000010100
+b. 10101100010010100000000000010100
+
+
+Type: F
+Title: CPU1-11
+11. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r8, $r15, $r4
+
+a. 000000 01111 00100 01000 00000 101010
+b. 00000001111001000100000000101010
+
+
+Type: F
+Title: CPU1-12
+12. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r5, 79($r4)
+
+a. 100011 00100 00101 0000000001001111
+b. 10001100100001010000000001001111
+
+
+Type: F
+Title: CPU1-13
+13. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+or $r19, $r12, $r7
+
+a. 000000 01100 00111 10011 00000 100101
+b. 00000001100001111001100000100101
+
+
+Type: F
+Title: CPU1-14
+14. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r10, 18($r7)
+
+a. 101011 00111 01010 0000000000010010
+b. 10101100111010100000000000010010
+
+
+Type: F
+Title: CPU1-15
+15. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r19, $r17, $r7
+
+a. 000000 10001 00111 10011 00000 101010
+b. 00000010001001111001100000101010
+
+
+Type: F
+Title: CPU1-16
+16. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r20, 90($r7)
+
+a. 100011 00111 10100 0000000001011010
+b. 10001100111101000000000001011010
+
+
+Type: F
+Title: CPU1-17
+17. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+or $r12, $r8, $r12
+
+a. 000000 01000 01100 01100 00000 100101
+b. 00000001000011000110000000100101
+
+
+Type: F
+Title: CPU1-18
+18. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r11, 76($r11)
+
+a. 100011 01011 01011 0000000001001100
+b. 10001101011010110000000001001100
+
+
+Type: F
+Title: CPU1-19
+19. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+or $r5, $r1, $r11
+
+a. 000000 00001 01011 00101 00000 100101
+b. 00000000001010110010100000100101
+
+
+Type: F
+Title: CPU1-20
+20. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r6, 68($r16)
+
+a. 100011 10000 00110 0000000001000100
+b. 10001110000001100000000001000100
+
+
+Type: F
+Title: CPU1-21
+21. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r2, $r6, $r20
+
+a. 000000 00110 10100 00010 00000 101010
+b. 00000000110101000001000000101010
+
+
+Type: F
+Title: CPU1-22
+22. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r6, 42($r19)
+
+a. 101011 10011 00110 0000000000101010
+b. 10101110011001100000000000101010
+
+
+Type: F
+Title: CPU1-23
+23. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sub $r12, $r20, $r19
+
+a. 000000 10100 10011 01100 00000 100010
+b. 00000010100100110110000000100010
+
+
+Type: F
+Title: CPU1-24
+24. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r14, 84($r16)
+
+a. 100011 10000 01110 0000000001010100
+b. 10001110000011100000000001010100
+
+
+Type: F
+Title: CPU1-25
+25. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+slt $r5, $r16, $r1
+
+a. 000000 10000 00001 00101 00000 101010
+b. 00000010000000010010100000101010
+
+
+Type: F
+Title: CPU1-26
+26. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r18, 71($r15)
+
+a. 100011 01111 10010 0000000001000111
+b. 10001101111100100000000001000111
+
+
+Type: F
+Title: CPU1-27
+27. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r14, $r2, $r10
+
+a. 000000 00010 01010 01110 00000 100100
+b. 00000000010010100111000000100100
+
+
+Type: F
+Title: CPU1-28
+28. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r16, 29($r7)
+
+a. 100011 00111 10000 0000000000011101
+b. 10001100111100000000000000011101
+
+
+Type: F
+Title: CPU1-29
+29. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+add $r15, $r12, $r19
+
+a. 000000 01100 10011 01111 00000 100000
+b. 00000001100100110111100000100000
+
+
+Type: F
+Title: CPU1-30
+30. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r6, 51($r16)
+
+a. 101011 10000 00110 0000000000110011
+b. 10101110000001100000000000110011
+
+
+Type: F
+Title: CPU1-31
+31. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r5, $r19, $r14
+
+a. 000000 10011 01110 00101 00000 100100
+b. 00000010011011100010100000100100
+
+
+Type: F
+Title: CPU1-32
+32. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r1, 4($r4)
+
+a. 100011 00100 00001 0000000000000100
+b. 10001100100000010000000000000100
+
+
+Type: F
+Title: CPU1-33
+33. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sub $r7, $r13, $r4
+
+a. 000000 01101 00100 00111 00000 100010
+b. 00000001101001000011100000100010
+
+
+Type: F
+Title: CPU1-34
+34. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r5, 6($r4)
+
+a. 101011 00100 00101 0000000000000110
+b. 10101100100001010000000000000110
+
+
+Type: F
+Title: CPU1-35
+35. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r15, $r5, $r10
+
+a. 000000 00101 01010 01111 00000 100100
+b. 00000000101010100111100000100100
+
+
+Type: F
+Title: CPU1-36
+36. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+sw $r17, 41($r17)
+
+a. 100011 10001 10001 0000000000101001
+b. 10001110001100010000000000101001
+
+
+Type: F
+Title: CPU1-37
+37. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r12, $r6, $r18
+
+a. 000000 00110 10010 01100 00000 100100
+b. 00000000110100100110000000100100
+
+
+Type: F
+Title: CPU1-38
+38. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r11, 14($r1)
+
+a. 101011 00001 01011 0000000000001110
+b. 10101100001010110000000000001110
+
+
+Type: F
+Title: CPU1-39
+39. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+and $r12, $r15, $r14
+
+a. 000000 01111 01110 01100 00000 100100
+b. 00000001111011100110000000100100
+
+
+Type: F
+Title: CPU1-40
+40. Encode the following instruction, expressing the answer as 32 bits. If you use spaces, put one between each field.
+
+lw $r18, 10($r12)
+
+a. 101011 01100 10010 0000000000001010
+b. 10101101100100100000000000001010
+

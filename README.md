@@ -21,9 +21,17 @@ and grade multiple versions of each test. This repository contains
 scripts for generating questions and answers that can be uploaded to
 Canvas or other learning management systems for automated testing.
 
-## Use
+## Organization
 
-TODO
+These directories contain code, sample output, and, in some cases, instructional material on the following topics:
+
+* [caches](https://github.com/espertus/comparch-testing/tree/main/caches)
+* [computer-arithmetic](https://github.com/espertus/comparch-testing/tree/main/computer-arithmetic)
+* [instruction-encoding](https://github.com/espertus/comparch-testing/tree/main/instruction-encoding)
+
+## Usage
+
+The code can be executed with Python 3 (tested with 3.9.0). Generated files of questions and answers can be uploaded to Canvas through [Respondus 4.0](https://web.respondus.com/he/respondus/), which is unfortunately not free. I would be happy to learn of free alternatives. 
 
 ## About
 

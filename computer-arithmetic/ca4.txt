@@ -1,0 +1,152 @@
+
+Type: F
+Title: CA4-1
+
+1. When the number 7.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000001 11100000
+
+
+Type: F
+Title: CA4-2
+
+2. When the number 5.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000001 01100000
+
+
+Type: F
+Title: CA4-3
+
+3. When the number 40.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000100 01000100
+
+
+Type: F
+Title: CA4-4
+
+4. When the number -63 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000100 11111000
+
+
+Type: F
+Title: CA4-5
+
+5. When the number 8.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000010 00010000
+
+
+Type: F
+Title: CA4-6
+
+6. When the number -43 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000100 01011000
+
+
+Type: F
+Title: CA4-7
+
+7. When the number -72.75 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000101 00100011
+
+
+Type: F
+Title: CA4-8
+
+8. When the number -94 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000101 01111000
+
+
+Type: F
+Title: CA4-9
+
+9. When the number 100.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000101 10010010
+
+
+Type: F
+Title: CA4-10
+
+10. When the number -89 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000101 01100100
+
+
+Type: F
+Title: CA4-11
+
+11. When the number -7.25 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000001 11010000
+
+
+Type: F
+Title: CA4-12
+
+12. When the number 94.25 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000101 01111001
+
+
+Type: F
+Title: CA4-13
+
+13. When the number 63.75 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000100 11111110
+
+
+Type: F
+Title: CA4-14
+
+14. When the number -41.25 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000100 01001010
+
+
+Type: F
+Title: CA4-15
+
+15. When the number 75.5 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 0 10000101 00101110
+
+
+Type: F
+Title: CA4-16
+
+16. When the number -67.25 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000101 00001101
+
+
+Type: F
+Title: CA4-17
+
+17. When the number -32 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000100 00000000
+
+
+Type: F
+Title: CA4-18
+
+18. When the number -46 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000100 01110000
+
+
+Type: F
+Title: CA4-19
+
+19. When the number -21.75 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
+
+a. 1 10000011 01011100
+

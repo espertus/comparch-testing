@@ -1,0 +1,120 @@
+
+Type: F
+Title: CA2A-0
+0. Convert the decimal number -98 into 8-bit two's complement notation.
+a. 10011110
+
+
+Type: F
+Title: CA2A-1
+1. Convert the decimal number -95 into 8-bit two's complement notation.
+a. 10100001
+
+
+Type: F
+Title: CA2A-2
+2. Convert the decimal number -91 into 8-bit two's complement notation.
+a. 10100101
+
+
+Type: F
+Title: CA2A-3
+3. Convert the decimal number -84 into 8-bit two's complement notation.
+a. 10101100
+
+
+Type: F
+Title: CA2A-4
+4. Convert the decimal number -83 into 8-bit two's complement notation.
+a. 10101101
+
+
+Type: F
+Title: CA2A-5
+5. Convert the decimal number -77 into 8-bit two's complement notation.
+a. 10110011
+
+
+Type: F
+Title: CA2A-6
+6. Convert the decimal number -70 into 8-bit two's complement notation.
+a. 10111010
+
+
+Type: F
+Title: CA2A-7
+7. Convert the decimal number -66 into 8-bit two's complement notation.
+a. 10111110
+
+
+Type: F
+Title: CA2A-8
+8. Convert the decimal number -60 into 8-bit two's complement notation.
+a. 11000100
+
+
+Type: F
+Title: CA2A-9
+9. Convert the decimal number -48 into 8-bit two's complement notation.
+a. 11010000
+
+
+Type: F
+Title: CA2A-10
+10. Convert the decimal number -41 into 8-bit two's complement notation.
+a. 11010111
+
+
+Type: F
+Title: CA2A-11
+11. Convert the decimal number -36 into 8-bit two's complement notation.
+a. 11011100
+
+
+Type: F
+Title: CA2A-12
+12. Convert the decimal number -31 into 8-bit two's complement notation.
+a. 11100001
+
+
+Type: F
+Title: CA2A-13
+13. Convert the decimal number -29 into 8-bit two's complement notation.
+a. 11100011
+
+
+Type: F
+Title: CA2A-14
+14. Convert the decimal number -27 into 8-bit two's complement notation.
+a. 11100101
+
+
+Type: F
+Title: CA2A-15
+15. Convert the decimal number -24 into 8-bit two's complement notation.
+a. 11101000
+
+
+Type: F
+Title: CA2A-16
+16. Convert the decimal number -18 into 8-bit two's complement notation.
+a. 11101110
+
+
+Type: F
+Title: CA2A-17
+17. Convert the decimal number -15 into 8-bit two's complement notation.
+a. 11110001
+
+
+Type: F
+Title: CA2A-18
+18. Convert the decimal number -12 into 8-bit two's complement notation.
+a. 11110100
+
+
+Type: F
+Title: CA2A-19
+19. Convert the decimal number -9 into 8-bit two's complement notation.
+a. 11110111
+

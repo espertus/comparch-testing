@@ -1,0 +1,180 @@
+
+Type: F
+Title: CA1-0
+0. The decimal number 128 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10000000 200 80
+b. 10000000 200 80
+c. 10000000 200 80
+d. 10000000 200 80
+
+
+Type: F
+Title: CA1-1
+1. The decimal number 132 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10000100 204 84
+b. 10000100 204 84
+c. 10000100 204 84
+d. 10000100 204 84
+
+
+Type: F
+Title: CA1-2
+2. The decimal number 135 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10000111 207 87
+b. 10000111 207 87
+c. 10000111 207 87
+d. 10000111 207 87
+
+
+Type: F
+Title: CA1-3
+3. The decimal number 137 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10001001 211 89
+b. 10001001 211 89
+c. 10001001 211 89
+d. 10001001 211 89
+
+
+Type: F
+Title: CA1-4
+4. The decimal number 141 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10001101 215 8d
+b. 10001101 215 8D
+c. 10001101 215 8d
+d. 10001101 215 8D
+
+
+Type: F
+Title: CA1-5
+5. The decimal number 145 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10010001 221 91
+b. 10010001 221 91
+c. 10010001 221 91
+d. 10010001 221 91
+
+
+Type: F
+Title: CA1-6
+6. The decimal number 147 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10010011 223 93
+b. 10010011 223 93
+c. 10010011 223 93
+d. 10010011 223 93
+
+
+Type: F
+Title: CA1-7
+7. The decimal number 149 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 10010101 225 95
+b. 10010101 225 95
+c. 10010101 225 95
+d. 10010101 225 95
+
+
+Type: F
+Title: CA1-8
+8. The decimal number 75 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1001011 113 4b
+b. 1001011 113 4B
+c. 01001011 113 4b
+d. 01001011 113 4B
+
+
+Type: F
+Title: CA1-9
+9. The decimal number 80 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1010000 120 50
+b. 1010000 120 50
+c. 01010000 120 50
+d. 01010000 120 50
+
+
+Type: F
+Title: CA1-10
+10. The decimal number 87 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1010111 127 57
+b. 1010111 127 57
+c. 01010111 127 57
+d. 01010111 127 57
+
+
+Type: F
+Title: CA1-11
+11. The decimal number 94 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1011110 136 5e
+b. 1011110 136 5E
+c. 01011110 136 5e
+d. 01011110 136 5E
+
+
+Type: F
+Title: CA1-12
+12. The decimal number 97 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1100001 141 61
+b. 1100001 141 61
+c. 01100001 141 61
+d. 01100001 141 61
+
+
+Type: F
+Title: CA1-13
+13. The decimal number 100 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1100100 144 64
+b. 1100100 144 64
+c. 01100100 144 64
+d. 01100100 144 64
+
+
+Type: F
+Title: CA1-14
+14. The decimal number 101 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1100101 145 65
+b. 1100101 145 65
+c. 01100101 145 65
+d. 01100101 145 65
+
+
+Type: F
+Title: CA1-15
+15. The decimal number 103 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1100111 147 67
+b. 1100111 147 67
+c. 01100111 147 67
+d. 01100111 147 67
+
+
+Type: F
+Title: CA1-16
+16. The decimal number 106 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1101010 152 6a
+b. 1101010 152 6A
+c. 01101010 152 6a
+d. 01101010 152 6A
+
+
+Type: F
+Title: CA1-17
+17. The decimal number 109 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1101101 155 6d
+b. 1101101 155 6D
+c. 01101101 155 6d
+d. 01101101 155 6D
+
+
+Type: F
+Title: CA1-18
+18. The decimal number 119 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1110111 167 77
+b. 1110111 167 77
+c. 01110111 167 77
+d. 01110111 167 77
+
+
+Type: F
+Title: CA1-19
+19. The decimal number 124 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+a. 1111100 174 7c
+b. 1111100 174 7C
+c. 01111100 174 7c
+d. 01111100 174 7C
+

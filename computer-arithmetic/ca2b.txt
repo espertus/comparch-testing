@@ -1,0 +1,120 @@
+
+Type: F
+Title: CA2B-0
+0. Convert the 8-bit two's complement number 10100100 into decimal notation.
+a. -92
+
+
+Type: F
+Title: CA2B-1
+1. Convert the 8-bit two's complement number 10100101 into decimal notation.
+a. -91
+
+
+Type: F
+Title: CA2B-2
+2. Convert the 8-bit two's complement number 10101010 into decimal notation.
+a. -86
+
+
+Type: F
+Title: CA2B-3
+3. Convert the 8-bit two's complement number 10101011 into decimal notation.
+a. -85
+
+
+Type: F
+Title: CA2B-4
+4. Convert the 8-bit two's complement number 10110011 into decimal notation.
+a. -77
+
+
+Type: F
+Title: CA2B-5
+5. Convert the 8-bit two's complement number 10110100 into decimal notation.
+a. -76
+
+
+Type: F
+Title: CA2B-6
+6. Convert the 8-bit two's complement number 10110110 into decimal notation.
+a. -74
+
+
+Type: F
+Title: CA2B-7
+7. Convert the 8-bit two's complement number 10111101 into decimal notation.
+a. -67
+
+
+Type: F
+Title: CA2B-8
+8. Convert the 8-bit two's complement number 10111110 into decimal notation.
+a. -66
+
+
+Type: F
+Title: CA2B-9
+9. Convert the 8-bit two's complement number 11000010 into decimal notation.
+a. -62
+
+
+Type: F
+Title: CA2B-10
+10. Convert the 8-bit two's complement number 11000101 into decimal notation.
+a. -59
+
+
+Type: F
+Title: CA2B-11
+11. Convert the 8-bit two's complement number 11001000 into decimal notation.
+a. -56
+
+
+Type: F
+Title: CA2B-12
+12. Convert the 8-bit two's complement number 11001111 into decimal notation.
+a. -49
+
+
+Type: F
+Title: CA2B-13
+13. Convert the 8-bit two's complement number 11010010 into decimal notation.
+a. -46
+
+
+Type: F
+Title: CA2B-14
+14. Convert the 8-bit two's complement number 11101000 into decimal notation.
+a. -24
+
+
+Type: F
+Title: CA2B-15
+15. Convert the 8-bit two's complement number 11101001 into decimal notation.
+a. -23
+
+
+Type: F
+Title: CA2B-16
+16. Convert the 8-bit two's complement number 11101101 into decimal notation.
+a. -19
+
+
+Type: F
+Title: CA2B-17
+17. Convert the 8-bit two's complement number 11101110 into decimal notation.
+a. -18
+
+
+Type: F
+Title: CA2B-18
+18. Convert the 8-bit two's complement number 11110000 into decimal notation.
+a. -16
+
+
+Type: F
+Title: CA2B-19
+19. Convert the 8-bit two's complement number 11111010 into decimal notation.
+a. -6
+

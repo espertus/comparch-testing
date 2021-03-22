@@ -1,55 +1,31 @@
-# comparch-testing
+# Computer Architecture teaching/testing tools
 
-These scripts generate problems for computer architecture courses.
+## Mastery-based learning
 
-## Learning outcomes
+This repository contains resources for *mastery-based learning* in 
+undergraduate computer architecture courses. As principal Danielle
+Salzberg has said: [[1]](https://www.kqed.org/mindshift/53241/how-mastery-based-learning-can-help-students-of-every-background-succeed)
 
-### CA1: Converting integers from decimal to binary, octal, and hexadecimal
+> Mastery-based learning is a complete paradigm shift for most teachers. It means thinking about grading as a way to provide feedback, and not a random act that we do because the quarter is ending.
 
-Sample question:
+Principles of mastery-based learning include: [[2]](https://portal.ct.gov/SDE/Mastery-Based-Learning/10-Principles-of-Mastery-Based-Learning)
 
-> The decimal number 91 can be represented as ________ (binary), ___ (octal) and __ (hexadecimal). Please omit leading zeroes.
+* Providing students with learning goals and the objective criteria for measuring them.
 
-### CA2a: Converting negative integers from decimal to two's complement
+* Grading students based on these objective criteria and not on work habits, such as as neatness, timeliness, and effort.
 
-Sample question:
+* Giving students multiple opportunities to demonstrate mastery, ultimately grading them on *whether*, not *when*, they mastered the material.
 
-> Convert the decimal number -7 into 8-bit two's complement notation.
+These practices place a burden on teachers -- requiring them to create
+and grade multiple versions of each test. This repository contains
+scripts for generating questions and answers that can be uploaded to
+Canvas or other learning management systems for automated testing.
 
-### CA2b: Converting negative decimal integers into two's complement
+## Use
 
-Sample question:
+TODO
 
->  Convert the 8-bit two's complement number 11110001 into decimal notation.
+## About
 
-### CA3: Ordering two's complement numbers
-
-Sample question:
-
-> The following numbers are in two's complement notation. Please order them from lowest (most negative) to highest (most positive). For example, if they were already correctly ordered, your answer would be ABCD.
->
-> A = 00111101
-> B = 11100000
-> C = 10110101
-> D = 00101100
-> 
-> For full credit, answer the problem without converting all of the numbers to decimal.
-
-### CA4: Converting decimal numbers into IEEE single-precision floating point
-
-Sample question:
-
-> When the number 98.75 is converted to single-precision floating-point format, the sign bit is _, the exponent field holds the eight bits ________, and the first 8 fraction bits are ________.
-
-### CA5: Ordering floating-point numbers
-
-Sample question:
-
-> The following numbers are in single-precision floating point format. Please order them from lowest (most negative) to highest (most positive). For example, if they were already correctly ordered, your answer would be ABCD.
-> 
-> A = 1 10000011 10100000000000000000000
-> B = 0 10000101 00110000000000000000000
-> C = 1 10000100 11111000000000000000000
-> D = 0 10000010 10100000000000000000000
->
-> For full credit, answer the problem without converting all of the numbers to decimal.
+This repository was created by Ellen Spertus based on material from her
+Mills College course CS 111: Computer Architecture.

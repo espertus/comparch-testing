@@ -31,6 +31,8 @@ These directories contain code, sample output, and, in some cases, instructional
 
 ## Usage
 
+The file [learning-outcomes.csv](https://github.com/espertus/comparch-testing/blob/main/learning-outcomes.csv) can be modified to meet your needs and [imported](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-outcomes-for-a-course/ta-p/702) into the Outcomes section of your course. 
+
 The code can be executed with Python 3 (tested with 3.9.0). Generated files of questions and answers can be uploaded to Canvas through [Respondus 4.0](https://web.respondus.com/he/respondus/), which is unfortunately not free. I would be happy to learn of free alternatives. 
 
 ## About

@@ -1,0 +1,30 @@
+vendor_guid,object_type,title,display_name,calculation_method,mastery_points,ratings,,,,,,,
+DL1,outcome,DL1. Converting a problem description into a truth table,Truth Table,latest,3,4,No errors are present,3,Minor errors are present,,,,
+DL2,outcome,DL2. Finding the minimal sum-of-products formula with a 4-input Karnaugh map,K-Map,latest,3,4,Formula is correct and minimal,3,Formula is correct but not minimal,2,Formula has minor errors but K-Map populated correctly,1,K-Map labeled correctly
+DL3,outcome,DL3. Converting a formula to a logic diagram,Logic Diagram,latest,3,4,Diagram is correct and follows all conventions,3,Diagram is correct and follows all conventions,2,Diagram is correct but does not follow conventions,1,Diagram has logical errors
+DL4,outcome,DL4. Creating a wiring diagram,Wiring Diagram,latest,3,4,Diagram is correct and follows all conventions,3,Diagram is correct and follows all conventions,2,Diagram is correct but does not follow conventions,1,Diagram has logical errors
+DL5,outcome,DL5. Building and testing a full-adder in hardware,Hardware,latest,6,8,Circuit passes all tests (or stumps the teacher),2,Circuit passes some tests,,,,
+,,,,,,,,,,,,,
+CA1,outcome,"CA1. Converting between bases two, eight, ten, and sixteen",Base Conversion,latest,3,4,Student can convert without errors.,3,Student makes minor errors.,2,,1,
+CA2,outcome,CA2. Converting between decimal and two's complement,2C Conversion,latest,3,4,"Student can convert between decimal and two's complement, in both directions, and can give the maximum and minimum values for numbers of a given width.",3,"Student makes minor errors between decimal and two's complement, in both directions.",2,Student makes major errors converting between decimal and two's complement.,1,
+CA3,outcome,CA3. Comparing two's complement numbers,2C Comparison,latest,3,4,Student can determine which of two numbers is bigger without converting them to another representation.,3,Student can determine which number is bigger by converting them into another representation.,2,,1,
+CA4,outcome,CA4. Converting between decimal and IEEE floating-point representations,FP Conversion,latest,3,4,Student can convert without errors.,3,Student makes minor errors.,2,,1,
+CA5,outcome,CA5. Comparing floating point numbers,FP Comparison,latest,3,4,Student can determine which of two numbers is bigger without converting them to another representation.,3,Student can determine which number is bigger by converting them into another representation.,2,,1,
+CA6,outcome,"CA6. Choosing best numeric representation, given range, accuracy, and performance requirements.",Choosing Representation,latest,6,8,Student can choose most efficient numeric representation (or recognize that meeting requirements is not possible).,6,,4,Student can choose representation that meets range and accuracy requirements but is not the most efficient.,2,
+,,,,,,,,,,,,,
+AL1,outcome,AL1. Writing assembly code,Programming,latest,9,12,Can implement non-leaf procedure with loops or other complex control flow,9,Can implement non-leaf procedure without complex control flow,6,Can implement trivial procedure,1,
+,,,,,,,,,,,,,
+CPU1,outcome,CPU1. Encoding MIPS instruction,MIPS encoding,latest,3,4,Correct,3,minor errors,1,multiple errors,,
+CPU2,outcome,CPU2. Encoding lab instructions,Lab encoding,latest,3,4,Correct,3,minor error,,,,
+CPU3,outcome,CPU3. Tracing control and data bits through single-cycle data path,Tracing,latest,3,4,All bits correct,3,minor error,2,minor errors,1,many errors
+CPU4,outcome,CPU4. Tracing control and data bits through pipelined data path,Tracing pipelined,latest,3,4,All bits correct,3,minor error,2,minor errors,1,many errors
+CPU5,outcome,CPU5. Determining control bits for hypothetical instructions,Control bits,latest,3,4,All bits correct,3,minor error,2,multiple errors,,
+CPU6,outcome,CPU6. Modifying data paths for hypothetical instructions,Modifying datapath,latest,6,8,Correct,6,TBD,,,,
+,,,,,,,,,,,,,
+V1,outcome,V1. Verilog design,Verilog design,decaying_average,6,8,Correct,3,minor error,2,significant error,0,incorrect
+V2,outcome,V2. Verilog tests,Verilog tests,decaying_average,3,4,Correct,3,minor error,2,significant error,0,incorrect
+,,,,,,,,,,,,,
+M1,outcome,M1 Calculating average memory access times (AMATs),AMAT,latest,3,4,correct,2,minor error,0,incorrect,,
+M2,outcome,M2 Simulating direct-mapped caches,Direct-mapped,latest,3,4,correct,3,set up correctly but minor error,2,set up incorrectly but otherwise correct,0,incorrect
+M3,outcome,M3 Simulating set-associative caches,Associative,latest,3,4,correct,3,set up correctly but minor error,2,set up incorrectly but otherwise correct,0,incorrect
+M4,outcome,M4 Determining which of 2 programs has better cache performance,Performance,latest,6,8,correct and clear explanation,4,correct and fuzzy explanation,0,incorrect,,

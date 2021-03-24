@@ -1,240 +1,240 @@
 
 Type: F
 Title: M1-0
-0. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 73 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.9
+0. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 87%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 99%. Main memory accesses take 49 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.08
 
 
 Type: F
 Title: M1-1
-1. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 65 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.2
+1. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 99%. Main memory accesses take 53 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 1.62
 
 
 Type: F
 Title: M1-2
-2. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 94%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 97%. Main memory accesses take 44 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.41
+2. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 94%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 58 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.86
 
 
 Type: F
 Title: M1-3
-3. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 38 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.93
+3. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 92%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 96%. Main memory accesses take 50 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.16
 
 
 Type: F
 Title: M1-4
-4. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 99%. Main memory accesses take 94 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.95
-
-
-Type: F
-Title: M1-5
-5. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 97%. Main memory accesses take 55 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.95
-
-
-Type: F
-Title: M1-6
-6. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 90%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 97%. Main memory accesses take 64 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.96
-
-
-Type: F
-Title: M1-7
-7. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 32 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.33
-
-
-Type: F
-Title: M1-8
-8. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 91%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 96%. Main memory accesses take 40 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.61
-
-
-Type: F
-Title: M1-9
-9. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 96%. Main memory accesses take 85 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 4.45
-
-
-Type: F
-Title: M1-10
-10. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 29 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.36
-
-
-Type: F
-Title: M1-11
-11. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 99%. Main memory accesses take 35 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.39
-
-
-Type: F
-Title: M1-12
-12. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 97%. Main memory accesses take 80 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 3.73
-
-
-Type: F
-Title: M1-13
-13. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 87 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+4. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 90%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 26 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
 a. 1.89
 
 
 Type: F
+Title: M1-5
+5. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 96%. Main memory accesses take 99 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 5.02
+
+
+Type: F
+Title: M1-6
+6. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 93 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.84
+
+
+Type: F
+Title: M1-7
+7. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 61 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.35
+
+
+Type: F
+Title: M1-8
+8. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 45 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.52
+
+
+Type: F
+Title: M1-9
+9. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 91 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 4.3
+
+
+Type: F
+Title: M1-10
+10. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 92%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 98%. Main memory accesses take 68 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.4
+
+
+Type: F
+Title: M1-11
+11. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 83 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.7
+
+
+Type: F
+Title: M1-12
+12. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 98%. Main memory accesses take 51 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.26
+
+
+Type: F
+Title: M1-13
+13. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 100 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.27
+
+
+Type: F
 Title: M1-14
-14. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 82 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.9
+14. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 100 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.02
 
 
 Type: F
 Title: M1-15
-15. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 91%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 96%. Main memory accesses take 33 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.53
+15. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 95%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 97 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.08
 
 
 Type: F
 Title: M1-16
-16. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 22 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.33
+16. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 88%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 98 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 4.36
 
 
 Type: F
 Title: M1-17
-17. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 92%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 97%. Main memory accesses take 72 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 3.18
+17. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 98%. Main memory accesses take 53 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.43
 
 
 Type: F
 Title: M1-18
-18. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 99%. Main memory accesses take 46 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.59
+18. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 100 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.11
 
 
 Type: F
 Title: M1-19
-19. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 99%. Main memory accesses take 95 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.95
+19. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 88%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 78 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.49
 
 
 Type: F
 Title: M1-20
-20. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 87%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 98%. Main memory accesses take 35 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.12
+20. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 32 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.17
 
 
 Type: F
 Title: M1-21
-21. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 88%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 98%. Main memory accesses take 94 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 3.26
+21. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 96%. Main memory accesses take 95 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 4.87
 
 
 Type: F
 Title: M1-22
-22. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 89 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.92
+22. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 98%. Main memory accesses take 92 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.97
 
 
 Type: F
 Title: M1-23
-23. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 75 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 3.82
+23. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 89%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 96%. Main memory accesses take 42 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.85
 
 
 Type: F
 Title: M1-24
-24. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 54 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.56
+24. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 98%. Main memory accesses take 98 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.04
 
 
 Type: F
 Title: M1-25
-25. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 98%. Main memory accesses take 27 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.55
+25. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 87%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 70 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.57
 
 
 Type: F
 Title: M1-26
-26. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 96%. Main memory accesses take 98 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 5.18
+26. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 94%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 79 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.4
 
 
 Type: F
 Title: M1-27
-27. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 97%. Main memory accesses take 33 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.99
+27. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 89%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 96%. Main memory accesses take 99 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 5.27
 
 
 Type: F
 Title: M1-28
-28. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 21 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.76
+28. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 81 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 1.84
 
 
 Type: F
 Title: M1-29
-29. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 95%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 61 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.84
+29. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 92%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 96%. Main memory accesses take 63 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.52
 
 
 Type: F
 Title: M1-30
-30. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 91%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 84 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.15
+30. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 24 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 1.75
 
 
 Type: F
 Title: M1-31
-31. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 89%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 96%. Main memory accesses take 78 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 4.29
+31. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 98%. Main memory accesses take 55 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.47
 
 
 Type: F
 Title: M1-32
-32. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 97%. Main memory accesses take 31 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.45
+32. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 73 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 1.84
 
 
 Type: F
 Title: M1-33
-33. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 98%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 99%. Main memory accesses take 97 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.0
+33. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 97%. Main memory accesses take 64 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.93
 
 
 Type: F
 Title: M1-34
-34. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 97%. Main memory accesses take 21 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.64
+34. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 93%. The L2 cache has an access time of 5 cycles and a cumulative hit rate of 97%. Main memory accesses take 93 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.92
 
 
 Type: F
 Title: M1-35
-35. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 31 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.92
+35. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 96%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 99%. Main memory accesses take 88 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 1.96
 
 
 Type: F
 Title: M1-36
-36. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 97%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 76 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.79
+36. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 88%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 98%. Main memory accesses take 58 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.64
 
 
 Type: F
 Title: M1-37
-37. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 90%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 97%. Main memory accesses take 98 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 4.05
+37. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 6 cycles and a cumulative hit rate of 99%. Main memory accesses take 73 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 2.42
 
 
 Type: F
 Title: M1-38
-38. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 95%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 99%. Main memory accesses take 70 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 1.77
+38. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 94%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 96%. Main memory accesses take 71 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.86
 
 
 Type: F
 Title: M1-39
-39. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 85%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 98%. Main memory accesses take 81 cycles. All of the acccess times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.99
+39. A processor has 2 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 88%. The L2 cache has an access time of 4 cycles and a cumulative hit rate of 97%. Main memory accesses take 81 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
+a. 3.67
 

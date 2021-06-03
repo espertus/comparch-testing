@@ -1,6 +1,6 @@
-# comparch-testing
+# Computer Arithmetic
 
-These scripts generate problems for computer architecture courses.
+These scripts generate computer arithmetic problems.
 
 ## Learning outcomes
 

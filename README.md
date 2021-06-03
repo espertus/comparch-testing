@@ -47,6 +47,10 @@ The code can be executed with Python 3 (tested with 3.9.0). Descriptions of each
 
 Generated files of questions and answers can be uploaded to Canvas through [Respondus 4.0](https://web.respondus.com/he/respondus/), which is unfortunately not free. I would be happy to learn of free alternatives. 
 
+## Credits
+
+This repository includes [qm.py](https://github.com/espertus/comparch-testing/blob/main/k-maps/qm.py) from [Thomas Pircher's implementation of the Quine McCluskey algorithm](https://github.com/tpircher/quine-mccluskey).
+
 ## About
 
 This repository was created by Ellen Spertus based on material from her

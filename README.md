@@ -28,6 +28,7 @@ These directories contain code, sample output, and, in some cases, instructional
 * [caches](https://github.com/espertus/comparch-testing/tree/main/caches)
 * [computer-arithmetic](https://github.com/espertus/comparch-testing/tree/main/computer-arithmetic)
 * [instruction-encoding](https://github.com/espertus/comparch-testing/tree/main/instruction-encoding)
+* [karnaugh-maps](https://github.com/espertus/comparch-testing/tree/main/karnaugh-maps)
 
 ## Usage
 
@@ -49,7 +50,7 @@ Generated files of questions and answers can be uploaded to Canvas through [Resp
 
 ## Credits
 
-This repository includes [qm.py](https://github.com/espertus/comparch-testing/blob/main/k-maps/qm.py) from [Thomas Pircher's implementation of the Quine McCluskey algorithm](https://github.com/tpircher/quine-mccluskey).
+This repository includes [qm.py](https://github.com/espertus/comparch-testing/blob/main/karnaugh-maps/qm.py) from [Thomas Pircher's implementation of the Quine McCluskey algorithm](https://github.com/tpircher/quine-mccluskey).
 
 ## About
 

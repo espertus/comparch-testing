@@ -25,7 +25,9 @@ NUM_PRODUCTS = 3
 TEMPLATE = """
 Type: F
 Title: KM1-{number}
-{number}. Consider a function F with 4 1-bit inputs A, B, C, and D. We can treat those 4 bits as a number N in the range 0-15 (inclusive), where A is the most significant bit and D is the least significant bit.[html]<br/><br/>[/html]Let F(N) be 0 when N is any of {zeroes}, and let F(N) be 1 when N is any of {ones}. In all other cases, we don't care what the value of F is.[html]<br/><br/>[/html]Create a truth table and Karnaugh map for the function F and give the minimal sum-of-products formula. You may put your products in any order, but the terms within them must be alphabetized (e.g., write "A&~B", not "~B&A").
+{number}. Consider a function F with 4 1-bit inputs A, B, C, and D. We can treat those 4 bits as a number N in the range 0-15 (inclusive), where A is the most significant bit and D is the least significant bit.[html]<br/>[/html]
+Let F(N) be 0 when N is any of {zeroes}, and let F(N) be 1 when N is any of {ones}. In all other cases, we don't care what the value of F is.[html]<br/>[/html]
+Create a truth table and Karnaugh map for the function F and give the minimal sum-of-products formula. You may put your products in any order, but the terms within each product must be alphabetized and you should not use parentheses. For example, you could write "A&~B|C" or "C|A&~B" but not "~B&A|C".
 
 {answers}
 """

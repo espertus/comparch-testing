@@ -1,13 +1,5 @@
 Type: F
 Title: M1-0
-0. A processor has 3 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 86%. The L2 cache has an access time of 3 cycles and a cumulative hit rate of 96%. The L3 cache has an access time of 15 cycles and a cumulative hit rate of 99%. Main memory accesses take 57 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
-a. 2.18
-
->>> 
-=========== RESTART: C:\Users\ellen\src\comparch-testing\caches\m2.py ==========
-
-Type: F
-Title: M1-0
 0. A processor has 3 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of 87%. The L2 cache has an access time of 2 cycles and a cumulative hit rate of 96%. The L3 cache has an access time of 15 cycles and a cumulative hit rate of 99%. Main memory accesses take 62 cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
 a. 2.12
 

@@ -25,7 +25,7 @@ MAX_MEM_ACCESS_TIME = 80
 
 TEMPLATE = """
 Type: F
-Title: M1-{0}
+Title: M1B-{0}
 {0}. A processor has 3 levels of caches. The L1 cache has an access time of 1 cycle and a hit rate of {1}%. The L2 cache has an access time of {2} cycles and a cumulative hit rate of {3}%. The L3 cache has an access time of {4} cycles and a cumulative hit rate of {5}%. Main memory accesses take {6} cycles. All of the access times are concurrent (done in parallel). What is the average memory access time in cycles? Enter a decimal number.
 a. {7}
 """

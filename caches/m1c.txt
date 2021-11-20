@@ -1,0 +1,398 @@
+Type: F
+Title: M1C-0
+0. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 98 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-99 cycles. The L1 hit rate is 88%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 4.21
+
+
+Type: F
+Title: M1C-1
+1. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+6 cycles if the item is found in the L2 cache or 27 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-28 cycles. The L1 hit rate is 93%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 1.84
+
+
+Type: F
+Title: M1C-2
+2. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 58 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-59 cycles. The L1 hit rate is 88%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.01
+
+
+Type: F
+Title: M1C-3
+3. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 49 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-50 cycles. The L1 hit rate is 92%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.63
+
+
+Type: F
+Title: M1C-4
+4. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 51 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-52 cycles. The L1 hit rate is 98%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.53
+
+
+Type: F
+Title: M1C-5
+5. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 28 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-29 cycles. The L1 hit rate is 89%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 2.0
+
+
+Type: F
+Title: M1C-6
+6. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 53 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-54 cycles. The L1 hit rate is 88%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.04
+
+
+Type: F
+Title: M1C-7
+7. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 32 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-33 cycles. The L1 hit rate is 87%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.56
+
+
+Type: F
+Title: M1C-8
+8. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 49 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-50 cycles. The L1 hit rate is 92%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.1
+
+
+Type: F
+Title: M1C-9
+9. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 37 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-38 cycles. The L1 hit rate is 90%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 2.46
+
+
+Type: F
+Title: M1C-10
+10. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 71 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-72 cycles. The L1 hit rate is 85%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.49
+
+
+Type: F
+Title: M1C-11
+11. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+6 cycles if the item is found in the L2 cache or 41 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-42 cycles. The L1 hit rate is 87%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.48
+
+
+Type: F
+Title: M1C-12
+12. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 24 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-25 cycles. The L1 hit rate is 90%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 1.86
+
+
+Type: F
+Title: M1C-13
+13. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 83 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-84 cycles. The L1 hit rate is 87%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.79
+
+
+Type: F
+Title: M1C-14
+14. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 76 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-77 cycles. The L1 hit rate is 86%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.61
+
+
+Type: F
+Title: M1C-15
+15. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 21 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-22 cycles. The L1 hit rate is 87%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.57
+
+
+Type: F
+Title: M1C-16
+16. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 44 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-45 cycles. The L1 hit rate is 96%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 1.92
+
+
+Type: F
+Title: M1C-17
+17. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 49 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-50 cycles. The L1 hit rate is 95%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.13
+
+
+Type: F
+Title: M1C-18
+18. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 82 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-83 cycles. The L1 hit rate is 87%, and the cumulative L2 hit rate
+is 96%. What is the average memory access time in cycles?
+a. 4.73
+
+
+Type: F
+Title: M1C-19
+19. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+4 cycles if the item is found in the L2 cache or 80 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-81 cycles. The L1 hit rate is 92%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.84
+
+
+Type: F
+Title: M1C-20
+20. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 36 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-37 cycles. The L1 hit rate is 88%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.58
+
+
+Type: F
+Title: M1C-21
+21. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 95 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-96 cycles. The L1 hit rate is 89%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 2.15
+
+
+Type: F
+Title: M1C-22
+22. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+4 cycles if the item is found in the L2 cache or 36 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-37 cycles. The L1 hit rate is 93%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 2.24
+
+
+Type: F
+Title: M1C-23
+23. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+6 cycles if the item is found in the L2 cache or 55 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-56 cycles. The L1 hit rate is 86%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 2.33
+
+
+Type: F
+Title: M1C-24
+24. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 81 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-82 cycles. The L1 hit rate is 88%, and the cumulative L2 hit rate
+is 96%. What is the average memory access time in cycles?
+a. 4.64
+
+
+Type: F
+Title: M1C-25
+25. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 60 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-61 cycles. The L1 hit rate is 89%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.65
+
+
+Type: F
+Title: M1C-26
+26. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 52 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-53 cycles. The L1 hit rate is 96%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.61
+
+
+Type: F
+Title: M1C-27
+27. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 72 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-73 cycles. The L1 hit rate is 94%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.56
+
+
+Type: F
+Title: M1C-28
+28. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+4 cycles if the item is found in the L2 cache or 69 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-70 cycles. The L1 hit rate is 97%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.42
+
+
+Type: F
+Title: M1C-29
+29. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 74 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-75 cycles. The L1 hit rate is 85%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 2.02
+
+
+Type: F
+Title: M1C-30
+30. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+4 cycles if the item is found in the L2 cache or 67 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-68 cycles. The L1 hit rate is 92%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.21
+
+
+Type: F
+Title: M1C-31
+31. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 28 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-29 cycles. The L1 hit rate is 91%, and the cumulative L2 hit rate
+is 96%. What is the average memory access time in cycles?
+a. 2.22
+
+
+Type: F
+Title: M1C-32
+32. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+6 cycles if the item is found in the L2 cache or 52 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-53 cycles. The L1 hit rate is 89%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 3.04
+
+
+Type: F
+Title: M1C-33
+33. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 69 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-70 cycles. The L1 hit rate is 98%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.74
+
+
+Type: F
+Title: M1C-34
+34. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 89 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-90 cycles. The L1 hit rate is 94%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 2.04
+
+
+Type: F
+Title: M1C-35
+35. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 58 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-59 cycles. The L1 hit rate is 93%, and the cumulative L2 hit rate
+is 96%. What is the average memory access time in cycles?
+a. 3.41
+
+
+Type: F
+Title: M1C-36
+36. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+2 cycles if the item is found in the L2 cache or 67 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-68 cycles. The L1 hit rate is 86%, and the cumulative L2 hit rate
+is 98%. What is the average memory access time in cycles?
+a. 2.58
+
+
+Type: F
+Title: M1C-37
+37. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 83 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-84 cycles. The L1 hit rate is 98%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.88
+
+
+Type: F
+Title: M1C-38
+38. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+5 cycles if the item is found in the L2 cache or 34 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-35 cycles. The L1 hit rate is 98%, and the cumulative L2 hit rate
+is 99%. What is the average memory access time in cycles?
+a. 1.39
+
+
+Type: F
+Title: M1C-39
+39. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
+If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
+3 cycles if the item is found in the L2 cache or 55 cycles if it needs to be retrieved from main memory.
+Thus, access times range from 1-56 cycles. The L1 hit rate is 86%, and the cumulative L2 hit rate
+is 97%. What is the average memory access time in cycles?
+a. 2.98

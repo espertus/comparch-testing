@@ -12,7 +12,7 @@ from random import randint
 NUM_QUESTIONS = 40
 MIN_L1_HIT_RATE = 80
 MAX_L1_HIT_RATE = 90
-MIN_L2_HIT_RATE = 95  # cumulative hit rate, guaranteed to be greater than L1 hit rate1
+MIN_L2_HIT_RATE = 95  # cumulative hit rate, guaranteed to be greater than L1 hit rate
 MAX_L2_HIT_RATE = 96
 MIN_L3_HIT_RATE = 97
 MAX_L3_HIT_RATE = 99

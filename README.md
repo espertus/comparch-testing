@@ -32,7 +32,7 @@ These directories contain code, sample output, and, in some cases, instructional
 
 ## Usage
 
-Some of this information is specific to Canvas. I welcome pull requests for other LMSs.
+Some of this information is specific to Canvas.
 
 ### Setting up learning outcomes
 
@@ -46,7 +46,7 @@ The code can be executed with Python 3 (tested with 3.9.0). Descriptions of each
 
 ### Uploading questions
 
-Generated files of questions and answers can be uploaded to Canvas through [Respondus 4.0](https://web.respondus.com/he/respondus/), which is unfortunately not free. I would be happy to learn of free alternatives. 
+Generated files of questions and answers can be uploaded to Canvas through [Respondus 4.0](https://web.respondus.com/he/respondus/), which is unfortunately not free.
 
 ## Credits
 
@@ -54,5 +54,5 @@ This repository includes [qm.py](https://github.com/espertus/comparch-testing/bl
 
 ## About
 
-This repository was created by Ellen Spertus based on material from her
-Mills College course CS 111: Computer Architecture.
+For more information, see
+[Mastery-Based Learning in Undergraduate Computer Architecture](https://ellenspertus.com/Papers/wcae2021-spertus-kurmas.pdf) by Ellen Spertus and Zachary Kurmas, Workshop on Computer Architecture Education, June 17, 2021.

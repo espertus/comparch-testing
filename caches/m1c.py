@@ -23,11 +23,7 @@ MAX_MEM_ACCESS_TIME = 100
 TEMPLATE = """
 Type: F
 Title: M1C-{0}
-{0}. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access.
-If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of
-{1} cycles if the item is found in the L2 cache or {2} cycles if it needs to be retrieved from main memory.
-Thus, access times range from {3}-{4} cycles. The L1 hit rate is {5}%, and the cumulative L2 hit rate
-is {6}%. What is the average memory access time in cycles?
+{0}. A processor has 2 levels of caches. There is a base cost of 1 cycle per memory access. If there is an L1 cache hit, there is no additional cost; otherwise, there is a miss penalty of {1} cycles if the item is found in the L2 cache or {2} cycles if it needs to be retrieved from main memory. Thus, access times range from {3}-{4} cycles. The L1 hit rate is {5}%, and the cumulative L2 hit rate is {6}%. What is the average memory access time in cycles?
 a. {7}
 """
 
